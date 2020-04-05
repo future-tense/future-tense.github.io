@@ -1,0 +1,4 @@
+[submodule "0chain-sdk"]
+	path = 0chain-sdk
+	url = https://github.com/future-tense/0chain-sdk.git
+	branch = gh-pages
