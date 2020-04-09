@@ -2,3 +2,7 @@
 	path = 0chain-sdk
 	url = https://github.com/future-tense/0chain-sdk.git
 	branch = gh-pages
+[submodule "stellar-option"]
+	path = stellar-option
+	url = https://github.com/future-tense/stellar-option.git
+	branch = gh-pages
