@@ -14,3 +14,7 @@
 	path = stellar-box
 	url = https://github.com/future-tense/stellar-box.git
 	branch = gh-pages
+[submodule "secret-memo"]
+	path = secret-memo
+	url = https://github.com/future-tense/secret-memo.git
+	branch = gh-pages
