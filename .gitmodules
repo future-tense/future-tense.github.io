@@ -6,3 +6,7 @@
 	path = stellar-option
 	url = https://github.com/future-tense/stellar-option.git
 	branch = gh-pages
+[submodule "ed25519-box"]
+	path = ed25519-box
+	url = https://github.com/future-tense/ed25519-box.git
+	branch = gh-pages
