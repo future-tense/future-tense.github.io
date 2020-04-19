@@ -10,3 +10,7 @@
 	path = ed25519-box
 	url = https://github.com/future-tense/ed25519-box.git
 	branch = gh-pages
+[submodule "stellar-box"]
+	path = stellar-box
+	url = https://github.com/future-tense/stellar-box.git
+	branch = gh-pages
